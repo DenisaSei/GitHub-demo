@@ -2,3 +2,6 @@ body {
 background-color: burlywood;
 color: black;
 }
+h1 {
+    text-decoration: underline;
+}
